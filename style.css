@@ -1,0 +1,69 @@
+* {
+	font-family: 'Exo:100', sans-serif;
+}
+
+#button1 {
+	background-color: #9DD1D1;
+	color:#fff;
+}
+
+#button2 {
+	background-color: #A8B8B8;
+	color:#fff;
+}
+
+#button3 {
+	background-color: #91A3C1;
+	color:#fff;
+}
+#button4 {
+	background-color: #8ECEBF;
+	color:#fff;
+}
+
+.navbar-brand {
+	width: 150px;
+	height: 50px;
+	margin: 5px;
+	padding-top: 15px;
+	padding-bottom:10px;
+	text-align: center;
+	color:#000;
+	font-family: 'Exo', sans-serif;
+}
+
+ .mainbutton {
+ 	background: #DAC3E5;
+ 	border: none;
+ }
+
+ #button5 {
+ 	background:#9EA4EF;
+ 	color: #fff;
+ 	border:none;
+ }
+
+#button6 {
+	background:#A5E3E5;
+	color: #fff;
+	border:none;
+ }
+
+
+ /*************Second Page*************/
+
+ .slider-size {
+    height:400px;
+ }
+
+#demo {
+background: #AF8ED6;
+color:#fff;
+border:none;
+}
+
+ .carousel-inner {
+ 	width:792px;
+ 	height:792px;
+ 	margin:10px;
+ }
